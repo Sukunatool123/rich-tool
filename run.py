@@ -126,7 +126,7 @@ logo=("""\033[1;32m
 \033[1;32m----------------------------------------------
  \033[1;37m[+] Owner    :  Sukuna Rich
  \033[1;37m[+] Partner   :  BHABISH×SUKUNA
- \033[1;37m[+] Version   :  1.0
+ \033[1;37m[+] Version   :  2.0
  \033[1;37m[+] Status    :  Premium
  \033[1;32m----------------------------------------------
  \033[1;37mSUKUNA RICH ALWAYS ONE TOP FIRE COMMAND
